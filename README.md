@@ -1,0 +1,2 @@
+# bluemood
+Awesome Wordpress Template
